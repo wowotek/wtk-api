@@ -1,0 +1,7 @@
+{
+    "base_url": "https://wowotek.github.io/wtk-api/misc/kode-prodi-uksw/{key_sort}",
+    "key_sort": [
+        "fakultas",
+        "prodi"
+    ]
+}
