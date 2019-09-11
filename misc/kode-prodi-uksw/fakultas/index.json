@@ -1,18 +1,44 @@
 {
-    "base_url":"https://wowotek.github.io/wtk-api/misc/kode-prodi-uksw/fakultas/{key_fakultas}",
-    "key_fakultas": [
-        "all",
-        "bahasa_dan_sastra",
-        "keguruan_dan_ilmu_pendidikan",
-        "ekonomika_dan_bisnis",
-        "ilmu_sosial_dan_komunikasi",
-        "biologi",
-        "ilmu_kesehatan",
-        "pertanian_dan_bisnis",
-        "teknik_elektro_dan_komputer",
-        "sains_dan_matematika",
-        "teknologi_informasi",
-        "teologi",
-        "psikologi"
-    ]
+    "base_url": "https://wowotek.github.io/wtk-api/misc/kode-prodi-uksw/fakultas/{key_fakultas}",
+    "key_fakultas": {
+        "all": {
+            "details": "list kode prodi beserta fakultasnya"
+        },
+        "bahasa_dan_sastra": {
+            "details": "list kode prodi fakultas Bahasa & Sastra"
+        },
+        "keguruan_dan_ilmu_pendidikan": {
+            "details": "list kode prodi fakultas Bahasa & Sastra"
+        },
+        "ekonomika_dan_bisnis": {
+            "details": "list kode prodi fakultas Ekonomika & Bisnis"
+        },
+        "ilmu_sosial_dan_komunikasi": {
+            "details": "list kode prodi fakultas Ilmu Sosial & Komunikasi"
+        },
+        "biologi": {
+            "details": "list kode prodi fakultas Biologi"
+        },
+        "ilmu_kesehatan": {
+            "details": "list kode prodi fakultas Ilmu Kesehatan"
+        },
+        "pertanian_dan_bisnis": {
+            "details": "list kode prodi fakultas Pertanian & Bisnis"
+        },
+        "teknik_elektro_dan_komputer": {
+            "details": "list kode prodi fakultas Teknik Elektro & Komputer"
+        },
+        "sains_dan_matematika": {
+            "details": "list kode prodi fakultas Sains & Matematika"
+        },
+        "teknologi_informasi": {
+            "details": "list kode prBahasa & Sastraodi fakultas Teknologi & Informasi"
+        },
+        "teologi": {
+            "details": "list kode prodi fakultas Teologi"
+        },
+        "psikologi": {
+            "details": "list kode prodi fakultas Psikologi"
+        }
+    }
 }

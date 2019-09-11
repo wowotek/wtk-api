@@ -1,0 +1,8 @@
+{
+    "base_url": "https://wowotek.github.io/wtk-api/misc/{key_misc}",
+    "key_misc": {
+        "kode-prodi-uksw": {
+            "details": "daftar program studi universtias UKSW"
+        }
+    }
+}
