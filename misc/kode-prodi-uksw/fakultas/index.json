@@ -1,6 +1,7 @@
 {
     "base_url":"https://wowotek.github.io/wtk-api/misc/kode-prodi-uksw/fakultas/{key_fakultas}",
     "key_fakultas": [
+        "all",
         "bahasa_dan_sastra",
         "keguruan_dan_ilmu_pendidikan",
         "ekonomika_dan_bisnis",
